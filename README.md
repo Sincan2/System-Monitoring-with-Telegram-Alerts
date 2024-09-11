@@ -21,7 +21,7 @@ This bash script monitors system resources like CPU, RAM, Disk usage, SSH logins
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/system-monitoring-telegram.git
+   git clone https://github.com/Sincan2/system-monitoring-telegram.git
    cd system-monitoring-telegram
    ```
 
